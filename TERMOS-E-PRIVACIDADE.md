@@ -4,8 +4,8 @@
 
 ## Termos de uso
 
-1. **Licença.** Você pode baixar e usar gratuitamente os programas Brendler™ KVM, para uso pessoal e de testes, enquanto esta versão de testes estiver disponível.
-2. **Direitos.** O software e a marca Brendler™ pertencem ao autor. Não é permitido revender, redistribuir ou modificar os programas sem autorização por escrito.
+1. **Licença.** Você pode baixar e usar gratuitamente os programas Edgeflow by Brendler™, para uso pessoal e de testes, enquanto esta versão de testes estiver disponível.
+2. **Direitos.** O software e as marcas Edgeflow e Brendler™ pertencem ao autor. Não é permitido revender, redistribuir ou modificar os programas sem autorização por escrito.
 3. **Sem garantia.** O programa é fornecido "como está". Ele controla mouse e teclado e acessa a área de transferência dos seus aparelhos; use por sua conta e risco e não o utilize para fins ilegais.
 4. **Mudanças.** Estes termos podem mudar quando a versão paga for lançada. Avisaremos na página do projeto.
 
